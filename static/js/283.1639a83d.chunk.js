@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_tailwindcss_portfolio=self.webpackChunkreact_tailwindcss_portfolio||[]).push([[283],{4283:(s,a,c)=>{c.r(a),c.d(a,{default:()=>l});var e=c(28),t=c(5509),i=c(579);const l=()=>(0,i.jsx)(t.S,{children:(0,i.jsx)("div",{className:"container mx-auto",children:(0,i.jsx)(e.A,{})})})}}]);
+//# sourceMappingURL=283.1639a83d.chunk.js.map
